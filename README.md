@@ -40,9 +40,7 @@ $ git clone https://github.com/antonioalexandre1984/GoRestaurant.git
 # Acesse a pasta da aplicação
 $ cd GoRestaurant
 
-# Crie um arquivo .env.local e coloque as variaveis
-# de ambiente baseado no arquivo .env.example que
-# se encontra na pasta GithubBlog
+encontra na pasta GoRestaurant
 
 # Instale as dependências
 $ yarn
